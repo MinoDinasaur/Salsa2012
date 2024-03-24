@@ -26,7 +26,7 @@ Salsa20 Generation Time: 4.940304756164551 seconds
 RC4 Generation Time:  0.4647209644317627 seconds
 
 # Source Code
-[Code]([https://colab.research.google.com/drive/148CgeQQzID6h9XUVg9Igz2wtqXeK6Hin#scrollTo=wnQ-cZVr-4pb](https://colab.research.google.com/drive/1d2ZGj3D-t13YvR0KV-RIe_paM9dMwRY3#scrollTo=QOvB7f1msJBE))
+[Code](https://colab.research.google.com/drive/1d2ZGj3D-t13YvR0KV-RIe_paM9dMwRY3#scrollTo=QOvB7f1msJBE)
 
 # Github
-(https://github.com/MinoDinasaur/Salsa2012)https://github.com/MinoDinasaur/Salsa2012
+(https://github.com/MinoDinasaur/Salsa2012)https://github.com/MinoDinasaur/Salsa2012)
