@@ -32,7 +32,7 @@ Sensitivity of Salsa20/12 to Key: 510 bytes differ
 
 Sensitivity of RC4 to Key: 509 bytes differ
 
-# Source Code
+# Code
 [Code](https://colab.research.google.com/drive/1d2ZGj3D-t13YvR0KV-RIe_paM9dMwRY3#scrollTo=QOvB7f1msJBE) https://colab.research.google.com/drive/1d2ZGj3D-t13YvR0KV-RIe_paM9dMwRY3#scrollTo=QOvB7f1msJBE
 
 # Github
