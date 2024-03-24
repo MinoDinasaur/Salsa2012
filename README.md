@@ -7,7 +7,7 @@ key = b"Today_I_code_Salsa2012_algorithm"
 
 nonce = b"mynonce1"
 
-plaintext = b"Congatulation, you remake Salsa2012"
+plaintext = b"Congatulation you remake Salsa2012"
 
 # Encrypted plaintext
 encrypted = encrypt(plaintext, key, nonce)
@@ -16,9 +16,9 @@ encrypted = encrypt(plaintext, key, nonce)
 decrypted = decrypt(encrypted, key, nonce)
 
 # Output test case
-Encrypted: eb5eadb64f763f988da746d1c834cc5627ff07353fe376b9de41da81b36cd029a6b8e5
+Encrypted: eb5eadb64f763f988da746d1c83895403daa552237ef7cb79b32e88cac7e832ba7bb
 
-Decrypted: Congatulation, you remake Salsa2012
+Decrypted: Congatulation you remake Salsa2012
 
 # Comparasion between Salsa20/12 and RC4 in generating key time
 
