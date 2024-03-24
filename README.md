@@ -2,28 +2,29 @@
 # Salsa20/12 Algorithm
 The Salsa20/12 cryptographic method is a symmetric stream cipher meticulously crafted to offer a blend of robust security and efficient performance. It functions effectively with input data of varying lengths, yielding ciphertext that matches the length of the original plaintext.
 
-# Example usage
+# Input test case
 key = b"Today_I_code_Salsa2012_algorithm"
 
 nonce = b"mynonce1"
 
 plaintext = b"Congatulation, you remake Salsa2012"
 
-# Encrypt the plaintext
+# Encrypted plaintext
 encrypted = encrypt(plaintext, key, nonce)
 
-# Decrypt the ciphertext
+# Decrypted ciphertext
 decrypted = decrypt(encrypted, key, nonce)
 
-# Result
+# Output test case
 Encrypted: eb5eadb64f763f988da746d1c834cc5627ff07353fe376b9de41da81b36cd029a6b8e5
 
 Decrypted: Congatulation, you remake Salsa2012
 
-# Compare Salsa20/12 to RC4
+# Comparasion between Salsa20/12 and RC4 in generating key time
 
-Salsa20 Generation Time: 4.940304756164551 seconds
-RC4 Generation Time:  0.4647209644317627 seconds
+Salsa20/12 Key-Generation Time: 4.940304756164551 seconds
+
+RC4 Key-Generation Time:  0.4647209644317627 seconds
 
 # Source Code
 [Code](https://colab.research.google.com/drive/1d2ZGj3D-t13YvR0KV-RIe_paM9dMwRY3#scrollTo=QOvB7f1msJBE) https://colab.research.google.com/drive/1d2ZGj3D-t13YvR0KV-RIe_paM9dMwRY3#scrollTo=QOvB7f1msJBE
